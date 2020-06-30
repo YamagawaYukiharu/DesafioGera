@@ -18,5 +18,5 @@ Contexto: Acesso ao site
 		Então vejo a tela de cadastro
 		Quando preencho os campos obrigatório e salvar
 		| Nome            | CPF         | DDDTelefone | Telefone | DDDCelular | Celular   | DiaNasc | MesNasc | AnoNasc | Email               | Senha    | Genero |
-		| Rafael Yamagawa | 43074803843 | 19          | 32812289 | 19         | 994471412 | 17      | 08      | 1994    | ryukiharu@gmail.com | Asdf1234 | M      |
+		| Renan Francisco | 31972295179 | 19          | 11111111 | 19         | 999999999 | 17      | 08      | 1994    | ryukiharu@gmail.com | Asdf1234 | M      |
 		Então vejo o meu carrinho de compras
